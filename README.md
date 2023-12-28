@@ -6,6 +6,4 @@ As I've discovered, I've gathered a significant amount of information that shoul
 
 However, the main goal is communication and seeking assistance from the community to answer the questions I currently have and undoubtedly will have more of in the future. For this reason, this repository will provide my interlocutors with the full context of my questions and the issues I am presently trying to resolve.
 
-At this very moment I have this document(s):
-
-- Hardware first launch: initial reviving of the printer's hardware MKS SKIPR printer board and MEAN WELL LRS-350-24 power supply unit. Headless process that even doesn't requires monitors to be connected.
+Welcome to the [Wiki pages](https://github.com/screeneroner/HalfCube_3DPrinter/wiki) with my findings.
